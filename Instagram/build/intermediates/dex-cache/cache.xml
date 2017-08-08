@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ninaad\Documents\MEGAsync\studio files\insta3\08.06\Instagram\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Ninaad\Documents\MEGAsync\studio files\insta3\08.06\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7b1b3407767e526cee711149e58f7dfa1d2bfda8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ninaad\Documents\MEGAsync\studio files\insta3\08.06\Instagram\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60b25f30012b889ba92e7ee98a386eafb0cb31dd">
+        <dex dex="C:\Users\Ninaad\Documents\MEGAsync\studio files\insta3\08.06\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7de61960878e7c269a22091c032dbb61289a2aba\classes.dex" />
+    </item>
+
+</items>
